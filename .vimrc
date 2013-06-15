@@ -4,6 +4,7 @@ set tabstop=4
 set expandtab
 set number
 set paste
+set fileformats=unix,dos
 syntax on
 
 nnoremap <C-Left> :tabprevious<CR>
